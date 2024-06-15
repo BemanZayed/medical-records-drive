@@ -22,7 +22,8 @@
     "noEmit": true
   },
   "include": [
-    "./**/*"
+    "./**/*",
+    "../app/middleware.ts"
   ],
   "exclude": [
     "./_generated"
